@@ -1,7 +1,7 @@
 ## Avskrivninger
 
-modell = gpt-4-0125-preview
-temperature = 0.5
+- modell = gpt-4-0125-preview
+- temperature = 0.5
 
 ### kontekst
 - sktl-kap-6
