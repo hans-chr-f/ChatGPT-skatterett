@@ -12,4 +12,4 @@
 
 ### To grupper spørsmål
 - [drosjebil](https://github.com/hans-chr-f/ChatGPT-skatterett/blob/main/avskrivninger-drosje.md)
-- kontorbygg
+- [kontorbygg](https://github.com/hans-chr-f/ChatGPT-skatterett/blob/main/avskrivninger-kontoreiendom.md)
