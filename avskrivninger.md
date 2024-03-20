@@ -4,8 +4,8 @@
 - temperature = 0.5
 
 ### kontekst
-- sktl-kap-6
-- sktl-kap-14
+- skatteloven kap. 6 (hele)
+- skatteloven kap. 14 (hele)
 - SkatteABC_Vedlikehold
 - SkatteABC_driftsmiddel
 
