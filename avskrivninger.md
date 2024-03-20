@@ -5,7 +5,7 @@
 
 ### kontekst
 - sktl-kap-6
-- sktl-kap-14.txt
+- sktl-kap-14
 - SkatteABC_Vedlikehold
 - SkatteABC_driftsmiddel
 
