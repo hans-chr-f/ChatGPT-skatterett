@@ -11,7 +11,7 @@
 - Skatte-ABC D (Driftsmiddel)
 
 ### To grupper spørsmål
-- [drosjebil](https://github.com/hans-chr-f/ChatGPT-skatterett/blob/main/avskrivninger-drosje.md) -- uten skatte-abc
-- [drosjebil]() -- med skatte-abc
-- [kontorbygg](https://github.com/hans-chr-f/ChatGPT-skatterett/blob/main/avskrivninger-kontoreiendom.md) -- uten skatte-abc
-- [kontorbygg]() -- med skatte-abc
+- [drosjebil](https://github.com/hans-chr-f/ChatGPT-skatterett/blob/main/avskrivninger-drosje.md) – uten skatte-abc
+- [drosjebil]() – med skatte-abc
+- [kontorbygg](https://github.com/hans-chr-f/ChatGPT-skatterett/blob/main/avskrivninger-kontoreiendom.md) – uten skatte-abc
+- [kontorbygg]() – med skatte-abc
