@@ -1,6 +1,6 @@
 ## Avskrivninger
 
-model = gpt-4-0125-preview
+modell = gpt-4-0125-preview
 temperature = 0.5
 
 ### kontekst
