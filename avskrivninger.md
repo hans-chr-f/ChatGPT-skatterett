@@ -28,5 +28,5 @@ Vi tester også kvaliteten på svarene varierer med hvor mye kontekst (rettskild
 - [drosjebil – med lovtekst + Skatte-ABC]()
 - [drosjebil – med lovtekst + eksempel på utregning]()
 - [kontorbygg – bare lovtekst](https://github.com/hans-chr-f/ChatGPT-skatterett/blob/main/avskrivninger_kontoreiendom_bare_lovtekst.md)
-- [kontorbygg – med lovtekst + Skatte-ABC]()
+- [kontorbygg – med lovtekst + Skatte-ABC](https://github.com/hans-chr-f/ChatGPT-skatterett/blob/main/avskrivninger_kontoreiendom_lov_abc.md)
 - [kontorbygg – med lovtekst + eksemoel på utregning]()
