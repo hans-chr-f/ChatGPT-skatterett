@@ -2,428 +2,415 @@
 
 ### Prompt 1: Du er en ekspert på norsk skatterett som skal løse spørsmål om skatt.
 
-For å beregne de skattemessige avskrivningene på en drosjebil i Norge, må vi se på reglene for saldoavskrivning. Drosjebiler faller under saldogruppe d, som omfatter personbiler, maskiner og inventar med mer. Per mitt siste kjennskap, er avskrivningssatsen for saldogruppe d 24 %.
+For å beregne de skattemessige avskrivningene på en drosjebil i Norge, må vi først identifisere hvilken avskrivningsmetode og sats som gjelder. Drosjebiler klassifiseres under saldogruppe j i skattereglene, som omfatter personbiler, varebiler klasse 2 og lette lastebiler med tillatt totalvekt ikke over 7 500 kg, hvor det ikke foreligger fradrag for inngående merverdiavgift ved anskaffelsen.
 
-I 2023, året bilen ble anskaffet og tatt i bruk, kan du kun avskrive halvparten av den ordinære avskrivningssatsen, altså 12 % av kjøpesummen. 
+Per min siste oppdatering, er avskrivningssatsen for saldogruppe j 20 %. Det er viktig å merke seg at avskrivninger på saldo beregnes på grunnlag av saldoen ved inngangen av inntektsåret, og for nye driftsmidler som anskaffes og tas i bruk i løpet av året, skal avskrivningssatsen halveres det første året. Dette betyr at for et driftsmiddel som anskaffes i 2023, vil avskrivningssatsen være 10 % for 2023.
 
-Kjøpesum: 500 000 NOK
+For drosjebilen du kjøpte for 500 000 kr i 2023, vil avskrivningene beregnes som følger:
 
-2023:
-- Avskrivning: 500 000 NOK * 12 % = 60 000 NOK
+**2023:**
+- Kjøpesum: 500 000 kr
+- Avskrivningssats det første året (halv sats): 10 %
+- Avskrivning for 2023: 500 000 kr * 10 % = 50 000 kr
 
-Restverdi etter avskrivning i 2023: 500 000 NOK - 60 000 NOK = 440 000 NOK
+**2024:**
+- Restverdi ved starten av 2024: 500 000 kr - 50 000 kr = 450 000 kr
+- Full avskrivningssats for påfølgende år: 20 %
+- Avskrivning for 2024: 450 000 kr * 20 % = 90 000 kr
 
-I 2024, kan du anvende den fullstendige avskrivningssatsen på restverdien etter avskrivningene i 2023.
+Så, de maksimale skattemessige avskrivningene du kan kreve for drosjebilen vil være 50 000 kr for 2023 og 90 000 kr for 2024, gitt at reglene for avskrivninger ikke endres. Husk at disse beregningene er basert på reglene som er kjent per min siste oppdatering, og det er alltid lurt å konsultere med en skatterådgiver eller revisor for å få den mest aktuelle informasjonen og for å sikre at beregningene er korrekte og i samsvar med gjeldende skatteregler.
 
-2024:
-- Avskrivning: 440 000 NOK * 24 % = 105 600 NOK
+### Prompt 2: Du er en ekspert på norsk skatterett som skal løse spørsmål om skatt. Baser svaret på følgende kontekst: {KONTEKST}
 
-Samlet maksimal skattemessig avskrivning over disse to årene vil da være 60 000 NOK for 2023 pluss 105 600 NOK for 2024, som tilsammen blir 165 600 NOK.
+For å beregne de skattemessige avskrivningene på drosjebilen din, må vi se på reglene for saldoavskrivning i norsk skatterett. Drosjebiler avskrives i saldogruppe c, som omfatter "vogntog, lastebiler, busser, varebiler, drosjebiler og kjøretøy for transport av funksjonshemmede". Ifølge § 14-43 første ledd bokstav c i skatteloven, kan saldoen for denne gruppen avskrives med inntil 24 prosent per år.
 
-Det er viktig å merke seg at disse beregningene baserer seg på regelverket slik det er kjent per mitt siste oppdateringspunkt, og skattereglene kan endre seg. Derfor anbefales det å konsultere en skatterådgiver eller revisor for å få oppdatert og spesifikk rådgivning for din situasjon.
+For å beregne avskrivningen, tar vi utgangspunkt i bilens kostpris på 500 000 kroner. Avskrivningen for det første året (2023) beregnes som 24 prosent av 500 000 kroner, som gir:
 
-### Prompt 2: Du er en ekspert på norsk skatterett som skal løse spørsmål om skatt. Baser svaret på følgende kontekst:{KONTEKST}
+500 000 kr * 24% = 120 000 kr
 
-For å beregne de skattemessige avskrivningene på drosjebilen din, må vi se på reglene for saldoavskrivning i norsk skatterett, spesifikt til de relevante saldogruppene. Drosjebiler avskrives i saldogruppe c, som omfatter vogntog, lastebiler, busser, varebiler, drosjebiler og kjøretøy for transport av funksjonshemmede. Ifølge § 14-43 første ledd bokstav c, kan saldoen for slike kjøretøy avskrives med inntil 24 prosent per år.
+Dette betyr at du kan foreta en maksimal avskrivning på 120 000 kroner for drosjebilen i 2023.
 
-Gitt at du kjøpte og fikk overlevert drosjebilen i 2023 for 500 000 kroner, vil beregningen av de maksimale skattemessige avskrivningene for 2023 og 2024 se slik ut:
-
-**For 2023:**
-
-Kjøpesum: 500 000 kroner
-
-Maksimal avskrivningssats for saldogruppe c: 24 %
-
-Maksimal avskrivning for 2023 = 500 000 kroner * 24 % = 120 000 kroner
-
-**For 2024:**
-
-Verdien av bilen ved starten av 2024 etter avskrivning: 500 000 kroner - 120 000 kroner = 380 000 kroner
-
-Maksimal avskrivning for 2024 = 380 000 kroner * 24 % = 91 200 kroner
-
-Så, basert på de skattemessige reglene for avskrivning av drosjebiler i Norge, vil de maksimale skattemessige avskrivningene for drosjebilen din være 120 000 kroner for 2023 og 91 200 kroner for 2024.
-
-### Prompt 3: Du er en ekspert på norsk skatterett som skal løse spørsmål om skatt. Baser svaret på følgende kontekst:{KONTEKST} Tenk trinn for trinn.
-
-For å beregne de skattemessige avskrivningene på drosjebilen, må vi se på reglene for saldoavskrivning som gjelder for driftsmidler i drosjenæringen. Drosjebiler er klassifisert under saldogruppe c i henhold til skattelovens § 14-41, som omfatter "vogntog, lastebiler, busser, varebiler, drosjebiler og kjøretøy for transport av funksjonshemmede".
-
-Ifølge § 14-43 første ledd bokstav c kan saldo for driftsmidler i denne gruppen avskrives med inntil 24 prosent.
-
-For å beregne avskrivningen:
-
-1. **I 2023**: Kostprisen for drosjebilen er kr 500 000. Med en avskrivningssats på 24 % blir avskrivningen for 2023: 
-
-   500 000 kr * 24 % = 120 000 kr
-
-2. **I 2024**: Avskrivningsgrunnlaget er nå redusert med avskrivningen fra 2023, så det nye avskrivningsgrunnlaget blir 500 000 kr - 120 000 kr = 380 000 kr. Avskrivningen for 2024 beregnes som:
-
-   380 000 kr * 24 % = 91 200 kr
-
-Så, de maksimale skattemessige avskrivningene på drosjebilen vil være 120 000 kr for 2023, og 91 200 kr for 2024, gitt at det ikke har vært andre tillegg eller fradrag som påvirker saldoen i denne perioden.
-
-### Prompt 4: Du er en norsk ekspert på skatterett som skal løse spørsmål om skatt. Vis alltid hvilket rettslig grunnlag du bygger på. Dersom du er i tvil, gjør nøye rede for hvorfor du er tvil. Baser svaret på følgende kontekst:{KONTEKST}
-
-For å beregne de skattemessige avskrivningene på drosjebilen din, må vi se på reglene for saldoavskrivning som er relevant for drosjebiler. Drosjebiler avskrives i saldogruppe c, som omfatter vogntog, lastebiler, busser, varebiler, drosjebiler og kjøretøy for transport av funksjonshemmede, med en avskrivningssats på 24 %.
-
-I 2023, det året du anskaffer og tar i bruk drosjebilen, vil den skattemessige avskrivningen beregnes fra overleveringsdatoen. Siden du fikk bilen overlevert i 2023, kan du avskrive 24 % av kostprisen på 500 000 kr:
-
-Avskrivning for 2023: 500 000 kr * 24 % = 120 000 kr
-
-Ved utgangen av 2023 vil bilens skattemessige verdi være:
+For det andre året (2024), beregnes avskrivningen på den gjenværende saldoen. Etter avskrivningen i 2023, er den gjenværende saldoen:
 
 500 000 kr - 120 000 kr = 380 000 kr
 
-For 2024 vil du igjen kunne avskrive 24 %, men denne gangen av den reduserte saldoen fra 2023:
+Avskrivningen for 2024 blir dermed 24 prosent av 380 000 kroner, som gir:
 
-Avskrivning for 2024: 380 000 kr * 24 % = 91 200 kr
+380 000 kr * 24% = 91 200 kr
 
-Det er viktig å merke seg at disse beregningene er basert på de generelle reglene for saldoavskrivning i skatteloven, spesifikt §§ 14-40 til 14-48, og forutsetter at det ikke er noen spesielle omstendigheter eller endringer i skattelovgivningen som påvirker avskrivningssatsen eller metoden. Disse beregningene gir deg de maksimale avskrivningene du kan kreve for drosjebilen i 2023 og 2024 under de gitte forutsetningene.
+Så, den maksimale skattemessige avskrivningen du kan foreta på drosjebilen i 2024 er 91 200 kroner.
 
-### Prompt 5: Du er en norsk ekspert på skatterett som skal løse spørsmål om skatt. Vis alltid hvilket rettslig grunnlag du bygger på. Dersom du er i tvil, gjør nøye rede for hvorfor du er tvil. Legg vekt på å skrive et sammenhengende resonnement. Unngå å bruke punktlister. Baser svaret på følgende kontekst: {KONTEKST}
-For å beregne de skattemessige avskrivningene på drosjebilen du kjøpte i 2023, må vi først identifisere hvilken saldogruppe bilen tilhører i henhold til norsk skattelovgivning. Drosjebiler klassifiseres under saldogruppe c, som omfatter vogntog, lastebiler, busser, varebiler, drosjebiler og kjøretøy for transport av funksjonshemmede.
+Husk at disse beregningene forutsetter at bilen er i bruk i næringen gjennom hele perioden og at de skattemessige reglene forblir uendret.
 
-Ifølge skatteloven § 14-43 første ledd c, kan saldo for driftsmidler i saldogruppe c avskrives med inntil 24 prosent per år.
+### Prompt 3: Du er en ekspert på norsk skatterett som skal løse spørsmål om skatt. Baser svaret på følgende kontekst: {KONTEKST} Tenk trinn for trinn.
 
-Basert på dette, kan vi beregne de maksimale skattemessige avskrivningene for drosjebilen din som følger:
+For å beregne de skattemessige avskrivningene på drosjebilen din, må vi se på reglene for saldoavskrivning i norsk skatterett. Drosjebiler avskrives i saldogruppe c, som omfatter "vogntog, lastebiler, busser, varebiler, drosjebiler og kjøretøy for transport av funksjonshemmede". Ifølge § 14-43 første ledd bokstav c i skatteloven, kan saldoen for denne gruppen avskrives med inntil 24 prosent per år.
 
-For 2023:
-Kostpris på drosjebilen: 500 000 kr
-Maksimal avskrivningssats for saldogruppe c: 24 %
-Maksimal avskrivning for 2023: 500 000 kr * 24 % = 120 000 kr
+For å beregne avskrivningen, bruker vi kostprisen på bilen og avskrivningssatsen. Kostprisen for drosjebilen er 500 000 kroner.
+
+For 2023 (anskaffelsesåret):
+- Maksimal avskrivning: 500 000 kroner * 24% = 120 000 kroner
+
+Etter avskrivningen i 2023 vil den nedskrevne verdien av bilen være:
+- 500 000 kroner - 120 000 kroner = 380 000 kroner
 
 For 2024:
-Verdien av drosjebilen ved starten av 2024 (etter avskrivning i 2023): 500 000 kr - 120 000 kr = 380 000 kr
+- Maksimal avskrivning på den nye saldoen (380 000 kroner) blir: 380 000 kroner * 24% = 91 200 kroner
+
+Så, de maksimale skattemessige avskrivningene du kan kreve for drosjebilen vil være 120 000 kroner for 2023 og 91 200 kroner for 2024, gitt at reglene for avskrivning ikke endres og at bilen fortsatt brukes i drosjenæringen.
+
+### Prompt 4: Du er en norsk ekspert på skatterett som skal løse spørsmål om skatt. Vis alltid hvilket rettslig grunnlag du bygger på. Dersom du er i tvil, gjør nøye rede for hvorfor du er tvil. Legg vekt på å skrive et sammenhengende resonnement. Unngå å bruke punktlister. Baser svaret på følgende kontekst: {KONTEKST}
+
+For å beregne de skattemessige avskrivningene på drosjebilen du kjøpte i 2023, må vi se på reglene for saldoavskrivning i skatteloven, spesifikt §§ 14-40 til 14-48, og særlig § 14-43 som omhandler avskrivningssatser for ulike saldogrupper.
+
+Drosjebiler klassifiseres under saldogruppe c, som omfatter "vogntog, lastebiler, busser, varebiler, drosjebiler og kjøretøy for transport av funksjonshemmede". Ifølge § 14-43 første ledd bokstav c, kan saldoen for denne gruppen avskrives med inntil 24 prosent per år.
+
+Gitt at du kjøpte drosjebilen for 500 000 kroner i 2023, og at det ikke er andre driftsmidler i denne saldogruppen fra før, vil saldoen for 2023 være 500 000 kroner. Maksimal avskrivning for 2023 vil da være 24 prosent av 500 000 kroner, som utgjør 120 000 kroner.
+
+For 2024 beregnes avskrivningen på den gjenværende saldoen etter avskrivningen i 2023. Den gjenværende saldoen ved inngangen til 2024 vil være 500 000 kroner minus 120 000 kroner, som gir 380 000 kroner. Maksimal avskrivning for 2024 vil da være 24 prosent av 380 000 kroner, som utgjør 91 200 kroner.
+
+Oppsummert:
+- Maksimal avskrivning for 2023: 120 000 kroner
+- Maksimal avskrivning for 2024: 91 200 kroner
+
+Det er viktig å merke seg at disse beregningene forutsetter at drosjebilen utelukkende brukes i næring og at det ikke er gjort andre tilpasninger eller endringer i saldogruppen som påvirker avskrivningsgrunnlaget.
+
+### Prompt 5: Du er en ekspert på norsk skatterett som skal løse rettslige spørsmål om skatt. Bruk følgende metode. Formuler hva det rettslige spørsmålet dreier seg om. Finn det rettslige grunnlaget som regulerer spørsmålet. Finn alle argumenter som er relevante for spørsmålet. Vurder alle relevante argumenter og henvis til rettskilder der dette er relevant. Konkluder. Legg vekt på å skrive en sammenhengende tekst der du ikke bruker punktlister og nummereringer. Baser svaret på følgende kontekst: {KONTEKST}
+For å beregne de skattemessige avskrivningene på drosjebilen du kjøpte i 2023, må vi først identifisere hvilken saldogruppe bilen tilhører i henhold til norsk skatterett. Drosjebiler klassifiseres under saldogruppe c, som omfatter vogntog, lastebiler, busser, varebiler, drosjebiler og kjøretøy for transport av funksjonshemmede.
+
+Ifølge § 14-43 første ledd c i skatteloven, kan saldo for driftsmidler i saldogruppe c avskrives med inntil 24 prosent per år. Dette betyr at du kan beregne de maksimale skattemessige avskrivningene på drosjebilen din basert på denne prosentsatsen.
+
+For året 2023, det året du kjøpte og fikk overlevert drosjebilen, vil avskrivningen beregnes som følger:
+
+Kostpris for drosjebilen: kr. 500 000
+Maksimal avskrivningssats for saldogruppe c: 24 %
+
+Maksimal avskrivning for 2023: 500 000 kr * 24 % = 120 000 kr
+
+For året 2024, vil du beregne avskrivningen basert på den nye saldoen, som er kostprisen minus avskrivningen fra 2023:
+
+Ny saldo for 2024: 500 000 kr - 120 000 kr = 380 000 kr
 Maksimal avskrivning for 2024: 380 000 kr * 24 % = 91 200 kr
 
-Dermed er de maksimale skattemessige avskrivningene på drosjebilen din 120 000 kr for 2023 og 91 200 kr for 2024, gitt at det ikke er andre tilpasninger eller endringer i bruken av bilen som påvirker avskrivningene.
+Så, de maksimale skattemessige avskrivningene på drosjebilen din vil være 120 000 kr for 2023 og 91 200 kr for 2024, forutsatt at det ikke er andre faktorer som påvirker avskrivningene, og at reglene for avskrivning ikke endres.
 
 
 
-## Jeg driver drosjenæring og kjøpte og fikk overlevert en drosjebil i 2022 for kr. 500 000. Jeg har krevet maksimale skattemessige avskrivninger i 2022 og 2023. Jeg selger bilen i 2024 for kr. 300 000, samtidig som at jeg kjøper enn ny drosjebil for kr. 600 000. Hva får jeg i maksimale skattemessige avskrivninger i 2024?
+## Jeg driver drosjenæring og kjøpte og fikk overlevert en drosjebil i 2022 for kr. 500 000. Jeg har krevd maksimale skattemessige avskrivninger i 2022 og 2023. Jeg selger bilen i 2024 for kr. 300 000. Samtidig kjøper jeg en ny drosjebil for kr. 600 000. Hva får jeg i maksimale skattemessige avskrivninger i 2024?
 
 ### Prompt 1: Du er en ekspert på norsk skatterett som skal løse spørsmål om skatt.
 
-For å beregne de skattemessige avskrivningene for din situasjon, må vi ta utgangspunkt i de norske skattereglene for avskrivning av driftsmidler, spesifikt for drosjebiler som faller under saldogruppe c. Per mitt kunnskapsnivå som ble oppdatert sist i 2023, er avskrivningssatsen for saldogruppe c (som inkluderer personbiler, varebiler klasse 2 og lette lastebiler) 24 %.
+For å beregne de maksimale skattemessige avskrivningene for drosjebilen i 2024, må vi først forstå hvordan avskrivninger fungerer i norsk skatterett, spesielt for driftsmidler som drosjebiler. I Norge benyttes saldoavskrivning for driftsmidler, hvor drosjebiler typisk klassifiseres under saldogruppe d. Satsen for saldoavskrivning i denne gruppen er 20 %.
 
-For å beregne avskrivningene, bruker vi saldoavskrivningsmetoden. Dette innebærer at du avskriver en prosentandel av saldoen du har i saldogruppen ved starten av året, pluss investeringer i løpet av året, minus eventuelle salg.
+Når du selger den gamle drosjebilen og kjøper en ny, må du først beregne den skattemessige gevinsten eller tapet ved salget av den gamle bilen. Dette gjøres ved å trekke salgssummen fra bilens bokførte verdi (restsaldo) ved salgstidspunktet. Den bokførte verdien er kjøpesummen minus akkumulerte avskrivninger frem til salgstidspunktet.
 
-1. **Avskrivninger i 2022 og 2023**:
-   - Kjøpsprisen for den første bilen var 500 000 NOK.
-   - For enkelhets skyld, antar vi maksimal avskrivning på 24 % både i 2022 og 2023.
+Gitt at du kjøpte den første bilen for 500 000 kr og har krevd maksimale avskrivninger for 2022 og 2023, beregner vi først avskrivningene for disse årene:
 
-2. **Salg av bilen i 2024**:
-   - Du selger bilen for 300 000 NOK.
-   - For å finne ut hva saldoen er før salget i 2024, må vi først beregne avskrivningene for de to foregående årene.
+1. For 2022: 20 % av 500 000 kr = 100 000 kr.
+2. Restverdi ved starten av 2023: 500 000 kr - 100 000 kr = 400 000 kr.
+3. For 2023: 20 % av 400 000 kr = 80 000 kr.
+4. Restverdi ved starten av 2024 (før salg): 400 000 kr - 80 000 kr = 320 000 kr.
 
-3. **Kjøp av ny drosjebil i 2024**:
-   - Du kjøper en ny drosjebil for 600 000 NOK.
+Når du selger bilen for 300 000 kr i 2024, har du et tap på 20 000 kr (320 000 kr - 300 000 kr), siden salgssummen er lavere enn den bokførte verdien. Dette tapet justerer saldoen du kan avskrive på i 2024.
 
-**Beregning av avskrivninger**:
+Når du kjøper en ny drosjebil for 600 000 kr i 2024, legges denne summen til saldoen for saldogruppe d. Men først må du justere for salget av den gamle bilen:
 
-1. **Avskrivning for 2022**:
-   - Startsaldo 500 000 NOK.
-   - Avskrivning = 500 000 NOK * 24 % = 120 000 NOK.
-   - Ny saldo = 500 000 NOK - 120 000 NOK = 380 000 NOK.
+1. Startsaldo 2024 (etter tap på salg av gammel bil): 320 000 kr - 20 000 kr = 300 000 kr.
+2. Kjøp av ny bil: 600 000 kr.
+3. Ny saldo for avskrivning i 2024: 300 000 kr + 600 000 kr = 900 000 kr.
 
-2. **Avskrivning for 2023**:
-   - Startsaldo 380 000 NOK.
-   - Avskrivning = 380 000 NOK * 24 % = 91 200 NOK.
-   - Ny saldo = 380 000 NOK - 91 200 NOK = 288 800 NOK.
+Maksimale skattemessige avskrivninger for 2024 blir dermed 20 % av 900 000 kr, som er 180 000 kr.
 
-3. **Saldo før salg i 2024**:
-   - Startsaldo 288 800 NOK.
+Så, svaret er at du får i maksimale skattemessige avskrivninger 180 000 kr i 2024 for den nye drosjebilen.
 
-4. **Salg av bilen**:
-   - Salgspris 300 000 NOK.
-   - Siden salgsprisen er høyere enn bokens verdi, vil det skattemessige resultatet være en gevinst. Denne gevinsten vil justere saldoen du kan avskrive fra.
+### Prompt 2: Du er en ekspert på norsk skatterett som skal løse spørsmål om skatt. Baser svaret på følgende kontekst: {KONTEKST}
 
-5. **Kjøp av ny bil**:
-   - Ny drosjebil for 600 000 NOK legges til saldoen.
+For å beregne de maksimale skattemessige avskrivningene for drosjebilen i 2024, må vi først se på hvordan avskrivningene og salget av den gamle bilen påvirker situasjonen.
 
-**Beregning av maksimale avskrivninger for 2024**:
-- Salgsprisen på den gamle bilen (300 000 NOK) overstiger bokens verdi ved starten av 2024 (288 800 NOK), noe som betyr at du har en gevinst som må tas med i beregningen.
-- Når du selger et driftsmiddel for mer enn bokens verdi, øker dette saldoen du kan avskrive fra, men siden gevinsten er skattepliktig, justeres saldoen ikke ned før kjøp av nytt driftsmiddel.
-- Ny saldo før avskrivninger i 2024 = (288 800 NOK - 288 800 NOK) + 600 000 NOK = 600 000 NOK (her antar vi at gevinsten er nøyaktig utlignet av salget, og derfor er startverdien for avskrivning det nye kjøpet).
-- Avskrivning for 2024 = 600 000 NOK * 24 % = 144 000 NOK.
+Drosjebiler avskrives i saldogruppe c, som har en maksimal avskrivningssats på 24 % per år ifølge § 14-43 første ledd bokstav c.
 
-**Konklusjon**:
-Maksimal skattemessig avskrivning du kan kreve for 2024 på den nye drosjebilen er 144 000 NOK, gitt de forenklede beregningene og antakelsene her. Det er viktig å merke seg at disse beregningene er forenklet og ikke tar hensyn til eventuelle endringer i skatteregler eller spesifikke detaljer som kan påvirke den faktiske avskrivningen. Det anbefales å konsultere med en regnskapsfører eller skatterådgiver for nøyaktige beregninger tilpasset din spesifikke situasjon.
+1. **Beregning av avskrivninger for den gamle drosjebilen:**
 
-### Prompt 2: Du er en ekspert på norsk skatterett som skal løse spørsmål om skatt. Baser svaret på følgende kontekst:{KONTEKST}
+   Kjøpesum for den gamle drosjebilen var kr. 500 000. 
 
-For å beregne de maksimale skattemessige avskrivningene i 2024, må vi først forstå hvordan drosjebilen blir behandlet skattemessig i henhold til norsk skatterett, spesifikt reglene for saldoavskrivning.
+   - For 2022 og 2023 har du krevd maksimale avskrivninger. 
+   - I 2022 (første året), avskrivningen er 24 % av kr. 500 000 = kr. 120 000.
+   - Den nedskrevne verdien ved utgangen av 2022 blir da kr. 500 000 - kr. 120 000 = kr. 380 000.
+   - I 2023, avskrivningen er 24 % av kr. 380 000 = kr. 91 200.
+   - Den nedskrevne verdien ved utgangen av 2023 blir da kr. 380 000 - kr. 91 200 = kr. 288 800.
 
-Drosjebilen kategoriseres under saldogruppe c (vogntog, lastebiler, busser, varebiler, drosjebiler og kjøretøy for transport av funksjonshemmede), som ifølge § 14-43 første ledd c i skatteloven har en maksimal avskrivningssats på 24 prosent per år.
+2. **Salg av den gamle drosjebilen i 2024:**
 
-Den første drosjebilen:
-1. Kjøpesum i 2022: kr. 500 000
-2. Maksimal avskrivning i 2022: 24 % av kr. 500 000 = kr. 120 000
-3. Verdi etter avskrivninger i 2022: kr. 500 000 - kr. 120 000 = kr. 380 000
-4. Maksimal avskrivning i 2023: 24 % av kr. 380 000 = kr. 91 200
-5. Verdi etter avskrivninger i 2023: kr. 380 000 - kr. 91 200 = kr. 288 800
+   - Du selger den gamle drosjebilen for kr. 300 000. Dette er høyere enn den bokførte verdien ved utgangen av 2023 (kr. 288 800), så du har en realisasjonsgevinst på kr. 300 000 - kr. 288 800 = kr. 11 200. Denne gevinsten skal føres på gevinst- og tapskontoen i henhold til § 14-44 og § 14-45.
 
-Når du selger bilen i 2024 for kr. 300 000, vil salget resultere i en gevinst sammenlignet med den skattemessige verdien (kr. 300 000 - kr. 288 800 = kr. 11 200). Denne gevinsten skal i utgangspunktet legges til saldoen for saldogruppe c, men siden du kjøper en ny drosjebil, kan vi se på hvordan dette påvirker saldoen.
+3. **Kjøp av ny drosjebil i 2024:**
 
-Den nye drosjebilen:
-1. Kjøpesum i 2024: kr. 600 000
-2. Saldo etter salg av den første bilen og kjøp av den nye: kr. 288 800 (verdien etter avskrivninger i 2023) - kr. 300 000 (salgsprisen, som gir en negativ saldo som inntektsføres) + kr. 11 200 (gevinsten lagt til saldo) + kr. 600 000 (kostpris for den nye bilen) = kr. 600 000 (siden den negative saldoen og gevinsten nøytraliserer hverandre og ikke påvirker kjøpesummen for den nye bilen direkte).
-3. Maksimal avskrivning i 2024 for den nye drosjebilen: 24 % av kr. 600 000 = kr. 144 000
+   - Kjøpesum for den nye drosjebilen er kr. 600 000.
+   - Denne bilen legges inn i saldogruppe c med en startverdi på kr. 600 000 for avskrivninger.
 
-Din maksimale skattemessige avskrivning for drosjebilen i 2024 vil derfor være kr. 144 000.
+4. **Beregning av avskrivninger for den nye drosjebilen i 2024:**
 
-### Prompt 3: Du er en ekspert på norsk skatterett som skal løse spørsmål om skatt. Baser svaret på følgende kontekst:{KONTEKST} Tenk trinn for trinn.
+   - Maksimal avskrivning for den nye drosjebilen i 2024 er 24 % av kr. 600 000 = kr. 144 000.
 
-For å beregne de maksimale skattemessige avskrivningene i 2024, må vi først forstå hvordan avskrivningene fungerer for drosjebiler i Norge, basert på skattereglene for saldoavskrivning. Drosjebiler klassifiseres under saldogruppe c (vogntog, lastebiler, busser, varebiler, drosjebiler og kjøretøy for transport av funksjonshemmede), som har en maksimal avskrivningssats på 24 % per år.
+5. **Samlet maksimal avskrivning i 2024:**
 
-1. **Beregning av avskrivning for den gamle drosjebilen:**
+   - For den nye drosjebilen: kr. 144 000.
+   - Merk: Gevinsten på kr. 11 200 fra salget av den gamle bilen påvirker ikke direkte avskrivningene, men skal føres på gevinst- og tapskontoen og kan påvirke skattegrunnlaget.
 
-   Kjøpesum for den gamle drosjebilen var 500 000 NOK. La oss anta at du har krevd maksimale avskrivninger for 2022 og 2023. Med en avskrivningssats på 24 %, ser beregningen slik ut:
+**Konklusjon:** Maksimale skattemessige avskrivninger du kan kreve i 2024 for den nye drosjebilen er kr. 144 000. Husk at realisasjonsgevinsten på den gamle bilen også skal håndteres i henhold til relevante skatteregler.
 
-   - **2022:**
-     - Avskrivning: 500 000 NOK * 24 % = 120 000 NOK
-     - Restverdi ved slutten av 2022: 500 000 NOK - 120 000 NOK = 380 000 NOK
+### Prompt 3: Du er en ekspert på norsk skatterett som skal løse spørsmål om skatt. Baser svaret på følgende kontekst: {KONTEKST} Tenk trinn for trinn.
 
-   - **2023:**
-     - Avskrivning: 380 000 NOK * 24 % = 91 200 NOK
-     - Restverdi ved slutten av 2023: 380 000 NOK - 91 200 NOK = 288 800 NOK
+For å beregne de maksimale skattemessige avskrivningene for drosjebilen i 2024, må vi først forstå hvordan avskrivninger fungerer for drosjebiler i henhold til norsk skatterett, og deretter anvende dette på ditt spesifikke tilfelle.
 
-   Når du selger den gamle drosjebilen i 2024 for 300 000 NOK, er dette høyere enn restverdien ved slutten av 2023 (288 800 NOK), noe som betyr at du vil ha en realisasjonsgevinst på 11 200 NOK (300 000 NOK - 288 800 NOK). Denne gevinsten skal føres inn på saldoen for gruppe c og vil påvirke avskrivningsgrunnlaget for 2024.
+Drosjebiler avskrives i saldogruppe c, som har en maksimal avskrivningssats på 24 % per år (§ 14-43 første ledd c). Dette betyr at du kan avskrive opptil 24 % av saldoen for drosjebiler hvert år.
 
-2. **Beregning av avskrivning for den nye drosjebilen:**
+1. **Beregning av avskrivninger for den solgte bilen:**
 
-   Kjøpesum for den nye drosjebilen er 600 000 NOK. For å finne det totale avskrivningsgrunnlaget for 2024, legger vi til kjøpesummen for den nye bilen til saldoen etter salget av den gamle bilen, justert for realisasjonsgevinsten:
+   - Kjøpesum for den opprinnelige drosjebilen i 2022: 500 000 kr.
+   - Maksimal avskrivning for 2022: 24 % av 500 000 kr = 120 000 kr.
+   - Restverdi ved utgangen av 2022: 500 000 kr - 120 000 kr = 380 000 kr.
+   - Maksimal avskrivning for 2023: 24 % av 380 000 kr = 91 200 kr.
+   - Restverdi ved utgangen av 2023: 380 000 kr - 91 200 kr = 288 800 kr.
 
-   - Saldo etter kjøp av ny bil: 600 000 NOK
-   - Realisasjonsgevinst fra salg av gammel bil: 11 200 NOK
-   - Ny saldo for avskrivning: 600 000 NOK + 11 200 NOK = 611 200 NOK
+   Når du selger bilen i 2024 for 300 000 kr, er salgsprisen litt høyere enn restverdien ved utgangen av 2023, noe som betyr at du vil ha en liten gevinst på salget. Denne gevinsten vil påvirke saldoen som du kan avskrive for den nye bilen.
 
-   Dermed blir maksimal avskrivning for 2024:
+2. **Beregning av avskrivninger for den nye bilen kjøpt i 2024:**
 
-   - Avskrivning: 611 200 NOK * 24 % = 146 688 NOK
+   - Kjøpesum for den nye drosjebilen i 2024: 600 000 kr.
+   - Salgspris for den gamle bilen: 300 000 kr.
+   - Restverdi for den gamle bilen ved utgangen av 2023: 288 800 kr.
+   - Gevinst på salg: 300 000 kr - 288 800 kr = 11 200 kr.
 
-Din maksimale skattemessige avskrivning for 2024 vil derfor være 146 688 NOK. Denne beregningen antar at det ikke er andre justeringer eller begrensninger som påvirker saldoen for gruppe c.
+   Denne gevinsten på 11 200 kr legges til saldoen for den nye bilen for avskrivningsformål.
 
-### Prompt 4: Du er en norsk ekspert på skatterett som skal løse spørsmål om skatt. Vis alltid hvilket rettslig grunnlag du bygger på. Dersom du er i tvil, gjør nøye rede for hvorfor du er tvil. Baser svaret på følgende kontekst:{KONTEKST}
+   - Ny saldo for avskrivning: 600 000 kr (ny bil) + 11 200 kr (gevinst) = 611 200 kr.
+   - Maksimal avskrivning for 2024: 24 % av 611 200 kr = 146 688 kr.
 
-For å beregne de maksimale skattemessige avskrivningene for drosjebilen du kjøpte i 2022 og solgte i 2024, og for den nye drosjebilen kjøpt i 2024, må vi først identifisere hvilken saldogruppe disse bilene tilhører, og deretter anvende gjeldende avskrivningssatser.
+**Konklusjon:** For 2024 kan du kreve maksimale skattemessige avskrivninger på 146 688 kr for den nye drosjebilen.
 
-Drosjebiler tilhører saldogruppe c, jf. skatteloven § 14-41 første ledd bokstav c, som har en maksimal avskrivningssats på 24 % per år.
+### Prompt 4: Du er en norsk ekspert på skatterett som skal løse spørsmål om skatt. Vis alltid hvilket rettslig grunnlag du bygger på. Dersom du er i tvil, gjør nøye rede for hvorfor du er tvil. Legg vekt på å skrive et sammenhengende resonnement. Unngå å bruke punktlister. Baser svaret på følgende kontekst: {KONTEKST}
 
-1. **Beregning av avskrivninger for drosjebilen kjøpt i 2022 og solgt i 2024:**
+For å beregne de maksimale skattemessige avskrivningene for drosjebilen i 2024, må vi først forstå hvordan avskrivninger fungerer for drosjebiler i henhold til norsk skatterett, og deretter anvende dette på ditt spesifikke tilfelle.
 
-   Kjøpspris i 2022: kr. 500 000
+Drosjebiler avskrives i saldogruppe c, som omfatter vogntog, lastebiler, busser, varebiler, drosjebiler og kjøretøy for transport av funksjonshemmede. Ifølge skatteloven § 14-43 første ledd bokstav c, kan saldo for slike driftsmidler avskrives med inntil 24 prosent per år.
 
-   Maksimal avskrivning for 2022 (24 %): kr. 120 000
+For å beregne avskrivningene, må vi først finne ut saldoen ved starten av 2024, som vil være basert på kostprisen for bilen kjøpt i 2022, minus avskrivningene for 2022 og 2023.
 
-   Restverdi ved utgangen av 2022: kr. 380 000
+1. Kostpris for drosjebilen kjøpt i 2022: kr. 500 000
+2. Maksimal avskrivning for 2022: 24 % av kr. 500 000 = kr. 120 000
+3. Saldo ved starten av 2023: kr. 500 000 - kr. 120 000 = kr. 380 000
+4. Maksimal avskrivning for 2023: 24 % av kr. 380 000 = kr. 91 200
+5. Saldo ved starten av 2024 før salg: kr. 380 000 - kr. 91 200 = kr. 288 800
 
-   Maksimal avskrivning for 2023 (24 % av 380 000): kr. 91 200
+Når du selger den gamle drosjebilen i 2024 for kr. 300 000, vil salgsprisen påvirke saldoen. Salgsprisen overstiger saldoen ved starten av 2024, noe som betyr at det vil være en gevinst på salget. Denne gevinsten skal inntektsføres og vil ikke direkte påvirke avskrivningene for den nye bilen, men den vil påvirke saldoen i saldogruppen.
 
-   Restverdi ved utgangen av 2023: kr. 380 000 - 91 200 = kr. 288 800
+Når du kjøper en ny drosjebil for kr. 600 000 i 2024, legges denne kostprisen til saldoen for saldogruppe c.
 
-   Salgspris i 2024: kr. 300 000
+1. Saldo før kjøp av ny bil: kr. 288 800 (før justering for salg)
+2. Justering for salg av gammel bil: Salgsprisen er høyere enn saldoen, så dette vil påvirke gevinst- og tapskontoen, men ikke saldoen for den nye bilen.
+3. Kostpris for ny drosjebil: kr. 600 000
+4. Ny saldo for avskrivning i 2024: kr. 600 000 (siden salget av den gamle bilen og kjøpet av den nye håndteres separat skattemessig)
 
-   Siden salgsprisen (kr. 300 000) er høyere enn restverdien ved utgangen av 2023 (kr. 288 800), oppstår det en gevinst på kr. 11 200 som må tas med i inntektsberegningen for 2024.
+Maksimal avskrivning for den nye drosjebilen i 2024 vil derfor være 24 % av kr. 600 000, som er kr. 144 000.
 
-2. **Beregning av avskrivninger for den nye drosjebilen kjøpt i 2024:**
+Det er viktig å merke seg at dette er en forenklet beregning. I praksis kan andre faktorer, som endringer i skattelovgivningen eller spesifikke regler for gevinst- og tapskontoen, påvirke den nøyaktige beregningen. Det anbefales å konsultere med en skatterådgiver for å sikre at alle aspekter av skattelovgivningen er korrekt anvendt på din situasjon.
 
-   Kjøpspris i 2024: kr. 600 000
+### Prompt 5: Du er en ekspert på norsk skatterett som skal løse rettslige spørsmål om skatt. Bruk følgende metode. Formuler hva det rettslige spørsmålet dreier seg om. Finn det rettslige grunnlaget som regulerer spørsmålet. Finn alle argumenter som er relevante for spørsmålet. Vurder alle relevante argumenter og henvis til rettskilder der dette er relevant. Konkluder. Legg vekt på å skrive en sammenhengende tekst der du ikke bruker punktlister og nummereringer. Baser svaret på følgende kontekst: {KONTEKST}
+For å beregne de maksimale skattemessige avskrivningene for drosjebilen i 2024, må vi først forstå hvordan avskrivninger fungerer for drosjebiler i henhold til norsk skatterett, og deretter anvende disse reglene på ditt spesifikke tilfelle.
 
-   Maksimal avskrivning for 2024 (24 % av 600 000): kr. 144 000
+Drosjebiler avskrives som driftsmidler i skattemessig sammenheng og inngår i saldogruppe c, som omfatter vogntog, lastebiler, busser, varebiler, drosjebiler og kjøretøy for transport av funksjonshemmede. Ifølge skatteloven § 14-43 første ledd bokstav c, kan saldoen for slike driftsmidler avskrives med inntil 24 prosent per år.
 
-   **Samlet effekt i 2024:**
+For å beregne avskrivningene, må vi først se på salg av den gamle drosjebilen og kjøp av den nye i 2024:
 
-   - Gevinst ved salg av den gamle drosjebilen: kr. 11 200 (øker skattepliktig inntekt)
-   - Maksimal avskrivning for den nye drosjebilen: kr. 144 000 (reduserer skattepliktig inntekt)
+1. **Salg av gammel drosjebil for kr. 300 000 i 2024**:
+   - Kjøpesummen for den gamle drosjebilen var kr. 500 000.
+   - Maksimal avskrivning for 2022 og 2023 er 24 % per år av saldoen.
+   - For 2022: 24 % av kr. 500 000 = kr. 120 000. Ny saldo blir da kr. 380 000.
+   - For 2023: 24 % av kr. 380 000 = kr. 91 200. Ny saldo blir da kr. 380 000 - kr. 91 200 = kr. 288 800.
+   - Ved salg i 2024 for kr. 300 000, når saldoen er kr. 288 800, oppstår en gevinst på kr. 11 200 (kr. 300 000 - kr. 288 800), som skal inntektsføres.
 
-   **Nettoeffekt på skattepliktig inntekt i 2024:** 
+2. **Kjøp av ny drosjebil for kr. 600 000 i 2024**:
+   - Den nye drosjebilen legges til saldoen for saldogruppe c ved kjøp.
+   - Siden den gamle bilen ble solgt og gevinsten inntektsført, starter vi med en ny saldo for den nye bilen på kr. 600 000.
 
-   - Maksimal avskrivning for den nye bilen minus gevinst på den solgte bilen: kr. 144 000 - kr. 11 200 = kr. 132 800
+For å beregne de maksimale skattemessige avskrivningene for den nye drosjebilen i 2024, anvender vi avskrivningssatsen på 24 % på kjøpesummen:
 
-Din maksimale skattemessige avskrivning for 2024 vil derfor være kr. 132 800, etter å ha tatt hensyn til gevinsten ved salg av den gamle bilen.
+- 24 % av kr. 600 000 = kr. 144 000.
 
-### Prompt 5: Du er en norsk ekspert på skatterett som skal løse spørsmål om skatt. Vis alltid hvilket rettslig grunnlag du bygger på. Dersom du er i tvil, gjør nøye rede for hvorfor du er tvil. Legg vekt på å skrive et sammenhengende resonnement. Unngå å bruke punktlister. Baser svaret på følgende kontekst: {KONTEKST}
-For å beregne de skattemessige avskrivningene for drosjenæringen din i 2024, må vi først se på de relevante bestemmelsene for avskrivninger i skatteloven, spesielt på reglene om saldoavskrivning for driftsmidler som din drosjebil er en del av.
+Dermed blir de maksimale skattemessige avskrivningene for den nye drosjebilen i 2024 kr. 144 000. 
 
-Drosjebilen du kjøpte i 2022 for kr. 500 000 og solgte i 2024 for kr. 300 000, samt den nye drosjebilen du kjøpte for kr. 600 000 i 2024, vil inngå i saldogruppe c, som omfatter "vogntog, lastebiler, busser, varebiler, drosjebiler og kjøretøy for transport av funksjonshemmede", jf. skatteloven § 14-41 første ledd c. Avskrivningssatsen for saldogruppe c er 24 prosent, jf. skatteloven § 14-43 første ledd c.
-
-For å beregne avskrivningene, må vi først fastslå saldoen ved utgangen av 2023, trekke fra salgsverdien for den gamle drosjebilen, legge til anskaffelseskostnaden for den nye drosjebilen, og deretter beregne avskrivningen for 2024 basert på den nye saldoen.
-
-Anta at du har krevet maksimale avskrivninger for 2022 og 2023. Uten de eksakte tallene for disse avskrivningene kan vi ikke nøyaktig beregne saldoen ved utgangen av 2023, men vi kan illustrere prosessen:
-
-1. Saldo ved utgangen av 2023: X kroner (dette tallet avhenger av de avskrivningene du har foretatt i 2022 og 2023).
-2. Salgsverdi av gammel drosjebil i 2024: kr. 300 000 (denne verdien trekkes fra saldoen).
-3. Kjøpesum for ny drosjebil i 2024: kr. 600 000 (denne verdien legges til saldoen).
-
-Den justerte saldoen for 2024 vil da være: X - 300 000 + 600 000 = X + 300 000.
-
-Maksimal avskrivning for 2024 beregnes så ved å anvende avskrivningssatsen på 24 % på den justerte saldoen:
-
-Maksimal avskrivning for 2024 = (X + 300 000) * 24 %.
-
-Uten det eksakte beløpet for X kan vi ikke gi et nøyaktig tall for avskrivningene dine i 2024, men denne formelen gir deg metoden for å beregne det basert på din faktiske saldo ved utgangen av 2023.
+Det er viktig å merke seg at dette eksemplet antar at det ikke er andre driftsmidler i saldogruppe c og at alle regler og satser er korrekt anvendt basert på informasjonen gitt. For mer detaljerte beregninger og for å ta hensyn til eventuelle endringer i skattelovgivningen eller spesifikke forhold knyttet til din virksomhet, anbefales det å konsultere med en skatterådgiver eller revisor.
 
 
 
-## Jeg startet drosjenæring i 2022, og kjøpte og fikk overlevert en drosjebil samme år for kr. 500 000. I 2023 utvidet jeg næringen ved å kjøpe ytterligere to drosjebiler for kr. 600 000 per stykk.  Den ene bilen ble levert i september 2023, mens den andre bilen ble overlevert 2. januar 2024. Jeg selger den eldste drosjebilen i 2024 for kr. 300 000. Samtidig kjøper jeg en ytterligere drosjebil for kr. 650 000 med overlevering i 2024, slik at jeg etter dette har tre biler i næringen. I 2024 har jeg hatt reparasjonskostnader på kr. 25 000 på en av bilene etter å ha rygget på en lyktestolpe. Jeg har krevet maksimale skattemessige avskrivninger i 2022 og 2023. Hva får jeg i maksimale skattemessige avskrivninger i 2024?
+## Jeg startet drosjenæring i 2022, og kjøpte og fikk overlevert en drosjebil samme år for kr. 500 000. I 2023 utvidet jeg næringen ved å kjøpe ytterligere to drosjebiler for kr. 600 000 per stykk.  Den ene bilen ble levert i september 2023, mens den andre bilen ble overlevert 2. januar 2024. Jeg selger den eldste drosjebilen i 2024 for kr. 300 000. Samtidig kjøper jeg en ytterligere drosjebil for kr. 650 000 med overlevering i 2024, slik at jeg etter dette har tre biler i næringen. I 2024 har jeg hatt reparasjonskostnader på kr. 25 000 på en av bilene etter å ha rygget på en lyktestolpe. Jeg har krevd maksimale skattemessige avskrivninger i 2022 og 2023. Hva får jeg i maksimale skattemessige avskrivninger i 2024?
 ### Prompt 1: Du er en ekspert på norsk skatterett som skal løse spørsmål om skatt.
 
-For å beregne de maksimale skattemessige avskrivningene i 2024, må vi først identifisere hvilken type avskrivning som er aktuell for drosjebilene. I Norge benyttes saldoavskrivning for driftsmidler som drosjebiler, og disse klassifiseres typisk i saldogruppe d (som per mitt siste kunnskapsoppdatering i 2023 har en avskrivningssats på 20 % per år). Vær oppmerksom på at regelverket kan endre seg, så det er viktig å sjekke de aktuelle satser og regler.
+For å beregne de maksimale skattemessige avskrivningene for 2024, må vi først forstå hvordan avskrivninger fungerer for næringskjøretøy i Norge, som drosjebiler. I Norge benyttes saldoavskrivning for næringskjøretøy, hvor kjøretøyene plasseres i saldogruppe d. Denne gruppen hadde per mitt siste kjente informasjonsgrunnlag en avskrivningssats på 20 %.
 
-For å forenkle, antar vi at drosjebilene tilhører saldogruppe d, og at avskrivningssatsen er 20 %.
+La oss se på de relevante tallene og hendelsene:
 
-1. **Kjøp og avskrivning av drosjebiler:**
-   - I 2022: Kjøpte en bil for 500 000 kr. Avskrivningene for dette året og 2023 er allerede gjort.
-   - I 2023: Kjøpte to biler for 600 000 kr hver. En bil ble levert i 2023, og den andre i 2024.
-   - I 2024: Selger den eldste bilen for 300 000 kr og kjøper en ny for 650 000 kr som blir levert i 2024.
+1. **Kjøp og salg av biler:**
+   - 2022: Kjøpte en drosjebil for 500 000 kr.
+   - 2023: Kjøpte to drosjebiler for 600 000 kr hver, men bare én ble levert i 2023.
+   - 2024: Solgte den eldste drosjebilen for 300 000 kr, kjøpte en ny for 650 000 kr, og mottok den andre bilen kjøpt i 2023.
 
-2. **Beregning av saldo ved inngangen av 2024:**
-   - Saldoen ved utgangen av 2023 inkluderer verdien av de to første bilene minus avskrivningene. Den tredje bilen kjøpt i 2023, men levert i 2024, inkluderes ikke i saldoen for 2023.
-   - For den første bilen (500 000 kr) og den andre bilen levert i 2023 (600 000 kr), er den totale anskaffelseskosten 1 100 000 kr før avskrivninger for 2023.
+2. **Reparasjonskostnader:**
+   - 2024: Hadde reparasjonskostnader på 25 000 kr.
 
-3. **Avskrivninger for 2024:**
-   - Bilen solgt i 2024 og den nye bilen kjøpt i 2024 påvirker saldoen. Salget av den eldste bilen reduserer saldoen, mens kjøpet av den nye bilen øker saldoen.
-   - Reparasjonskostnadene på 25 000 kr er umiddelbart fradragsberettigede utgifter og påvirker ikke saldoen for avskrivning, men reduserer skattepliktig inntekt direkte.
+For å beregne saldoen for avskrivning for 2024, må vi først oppdatere saldoen fra 2023 med kjøp og salg av biler.
 
-**Beregning:**
+**2023:**
+- Saldo ved starten av 2023 inkluderer bilen kjøpt i 2022 for 500 000 kr.
+- Kjøp av en drosjebil for 600 000 kr i 2023 som ble levert samme år.
+- Saldo før avskrivninger for 2023 blir dermed 1 100 000 kr (500 000 kr + 600 000 kr).
+- Avskrivning for 2023: 1 100 000 kr * 20% = 220 000 kr.
+- Saldo ved slutten av 2023 etter avskrivninger: 1 100 000 kr - 220 000 kr = 880 000 kr.
 
-- **Saldo ved inngangen av 2024**: Vi må vite saldoen ved utgangen av 2023 for å beregne dette. La oss anta at du har tatt full avskrivning for 2022 og 2023. For enkelhets skyld (og uten de eksakte tallene for avskrivninger for disse årene), antar vi en forenklet beregning:
-  - 2022 og 2023 avskrivninger: 20% av 1 100 000 kr = 220 000 kr for hvert år.
-  - Dette er en forenkling, da avskrivningen normalt ville reduseres årlig. Men for beregningens skyld, la oss si saldoen reduseres med 440 000 kr totalt for de to årene.
-  - Dette etterlater en saldo på 660 000 kr ved inngangen av 2024 før justeringer.
+**2024:**
+- Mottak av drosjebil kjøpt i 2023 for 600 000 kr.
+- Salg av den eldste drosjebilen for 300 000 kr (dette påvirker ikke saldoen direkte, men gevinst/tap ved salg behandles separat skattemessig).
+- Kjøp av en ny drosjebil for 650 000 kr.
+- Reparasjonskostnader på 25 000 kr kan ikke avskrives direkte som en del av saldoavskrivningen, men kostnaden er fradragsberettiget i næringsinntekten.
 
-- **Justeringer i 2024**:
-  - Salg av den eldste bilen for 300 000 kr reduserer saldoen.
-  - Kjøp av en ny bil for 650 000 kr øker saldoen.
-  - Den tredje bilen kjøpt i 2023, men levert i 2024, for 600 000 kr øker også saldoen.
-  - Ny saldo før avskrivninger i 2024: 660 000 kr - 300 000 kr + 650 000 kr + 600 000 kr = 1 610 000 kr.
+Oppdatering av saldo for 2024 før avskrivninger:
+- Startsaldo: 880 000 kr (fra 2023).
+- Legger til kjøp av bil levert i 2024: 600 000 kr.
+- Legger til kjøp av ny bil i 2024: 650 000 kr.
+- Ny saldo før avskrivninger for 2024: 2 130 000 kr (880 000 kr + 600 000 kr + 650 000 kr).
 
-- **Avskrivninger for 2024**:
-  - 20% av 1 610 000 kr = 322 000 kr.
+Beregning av avskrivninger for 2024:
+- Avskrivning: 2 130 000 kr * 20% = 426 000 kr.
 
-Så, de maksimale skattemessige avskrivningene du kan kreve i 2024 er 322 000 kr, gitt at reglene for saldogruppe d og avskrivningssatser ikke har endret seg. Husk at dette er en forenklet beregning, og faktiske avskrivninger kan variere basert på nøyaktige tall og eventuelle endringer i skattereglene.
+Dermed er de maksimale skattemessige avskrivningene du kan kreve for 2024, 426 000 kr. Husk at dette er en forenklet beregning, og faktiske skattemessige konsekvenser kan variere basert på spesifikke omstendigheter og eventuelle endringer i skattelovgivningen.
 
-### Prompt 2: Du er en ekspert på norsk skatterett som skal løse spørsmål om skatt. Baser svaret på følgende kontekst:{KONTEKST}
+### Prompt 2: Du er en ekspert på norsk skatterett som skal løse spørsmål om skatt. Baser svaret på følgende kontekst: {KONTEKST}
 
-For å beregne de maksimale skattemessige avskrivningene for drosjebilene i 2024, vil jeg bruke reglene for saldoavskrivning i henhold til norsk skatterett. Drosjebiler klassifiseres under saldogruppe c, som har en maksimal avskrivningssats på 24 % per år.
+For å beregne de maksimale skattemessige avskrivningene for 2024, må vi først identifisere hvilken saldogruppe drosjebilene tilhører og anvende de relevante avskrivningssatsene. Drosjebiler tilhører saldogruppe c, som har en avskrivningssats på 24 % ifølge § 14-43 første ledd c.
 
-1. **2022: Kjøp av den første drosjebilen for 500 000 kr**
-   - Denne bilen har vært i næringen både i 2022 og 2023, og du har krevet maksimale avskrivninger for disse årene.
+I 2022 kjøpte du en drosjebil for kr. 500 000. I 2023 kjøpte du to biler til, hver for kr. 600 000, men bare én av disse ble levert i 2023, mens den andre ble levert i 2024. I 2024 selger du den eldste bilen for kr. 300 000 og kjøper en ny bil for kr. 650 000, som også blir levert i 2024. Du har også hatt reparasjonskostnader på kr. 25 000 i 2024.
 
-2. **2023: Kjøp av to drosjebiler for 600 000 kr hver**
-   - En bil overlevert i september 2023 og en annen i januar 2024. Bare bilen levert i 2023 regnes med i avskrivningsgrunnlaget for 2023.
+For å beregne saldoen for 2024, må vi først beregne saldoen ved utgangen av 2023 og deretter justere for kjøp, salg og avskrivninger i 2024.
 
-3. **2024: Salg av den første drosjebilen for 300 000 kr og kjøp av en ny drosjebil for 650 000 kr**
-   - Reparasjonskostnader på 25 000 kr etter en ulykke.
+1. **Saldo ved utgangen av 2023:**
+   - Startsaldo 2022: kr. 500 000 (bil kjøpt i 2022).
+   - Kjøp i 2023: kr. 600 000 (én bil levert i 2023).
+   - Avskrivning for 2022 og 2023: 24 % av saldoen for hvert år.
 
-For å beregne saldoen for 2024, følger vi disse trinnene:
+2. **Beregning av avskrivninger for 2022 og 2023:**
+   - 2022: 24 % av kr. 500 000 = kr. 120 000.
+   - Ny saldo for 2023: kr. 500 000 + kr. 600 000 - kr. 120 000 = kr. 980 000.
+   - 2023: 24 % av kr. 980 000 = kr. 235 200.
 
-**Trinn 1: Beregn saldoen ved utgangen av 2023**
-- Startsaldoen for 2023 inkluderer den første bilen (500 000 kr) og tillegg for den andre bilen kjøpt i 2023 (600 000 kr).
-- Saldo før avskrivning for 2023: 500 000 + 600 000 = 1 100 000 kr.
-- Avskrivning for 2023: 1 100 000 kr * 24 % = 264 000 kr.
-- Saldo ved utgangen av 2023: 1 100 000 kr - 264 000 kr = 836 000 kr.
+3. **Saldo ved starten av 2024:**
+   - Saldo etter avskrivninger for 2023: kr. 980 000 - kr. 235 200 = kr. 744 800.
 
-**Trinn 2: Justeringer i 2024**
-- Saldoen fra 2023 føres videre til 2024: 836 000 kr.
-- Tillegg for kjøp av ny drosjebil i 2024: 650 000 kr.
-- Fradrag for salg av den eldste drosjebilen: 300 000 kr (salgsprisen påvirker ikke saldoen direkte, men reduserer saldoen gjennom realisasjon).
-- Tillegg for bilen levert i januar 2024: 600 000 kr.
-- Ny saldo før avskrivning i 2024: 836 000 + 650 000 + 600 000 = 2 086 000 kr.
+4. **Justeringer i 2024:**
+   - Salg av den eldste bilen: kr. 744 800 - kr. 300 000 = kr. 444 800.
+   - Kjøp av ny bil levert i 2024: kr. 444 800 + kr. 650 000 = kr. 1 094 800.
+   - Reparasjonskostnader på kr. 25 000 kan ikke legges til saldoen, da de ikke regnes som en del av anskaffelseskostnaden for et driftsmiddel, men de er fradragsberettigede kostnader.
 
-**Trinn 3: Beregn avskrivning for 2024**
-- Avskrivning for 2024: 2 086 000 kr * 24 % = 500 640 kr.
+5. **Avskrivning for 2024:**
+   - 24 % av kr. 1 094 800 = kr. 262 752.
 
-**Trinn 4: Vurdering av reparasjonskostnader**
-- Reparasjonskostnader på 25 000 kr etter å ha rygget på en lyktestolpe regnes som vedlikeholdskostnad og fradragsføres direkte i inntektsåret de påløper.
+**Konklusjon:** Maksimale skattemessige avskrivninger for 2024 er kr. 262 752. Reparasjonskostnadene på kr. 25 000 behandles separat som en fradragsberettiget kostnad og legges ikke til saldoen for avskrivningsformål.
 
-**Konklusjon**
-De maksimale skattemessige avskrivningene du kan kreve for drosjebilene i 2024 er 500 640 kr, pluss du kan fradragsføre reparasjonskostnadene på 25 000 kr som en separat kostnad.
+### Prompt 3: Du er en ekspert på norsk skatterett som skal løse spørsmål om skatt. Baser svaret på følgende kontekst: {KONTEKST} Tenk trinn for trinn.
 
-### Prompt 3: Du er en ekspert på norsk skatterett som skal løse spørsmål om skatt. Baser svaret på følgende kontekst:{KONTEKST} Tenk trinn for trinn.
+For å beregne de maksimale skattemessige avskrivningene for drosjenæringen din i 2024, må vi først identifisere hvilken saldogruppe drosjebilene tilhører og anvende de relevante avskrivningssatsene. Basert på informasjonen gitt, tilhører drosjebilene saldogruppe c, som omfatter "vogntog, lastebiler, busser, varebiler, drosjebiler og kjøretøy for transport av funksjonshemmede", og har en avskrivningssats på 24 %.
 
-For å beregne de maksimale skattemessige avskrivningene for drosjenæringen din i 2024, må vi først identifisere hvilken saldogruppe drosjebilene tilhører, og deretter anvende gjeldende avskrivningssats for denne gruppen basert på informasjonen fra skatteloven.
+La oss se på statusen for hvert år og beregne avskrivningene for 2024:
 
-Drosjebiler tilhører saldogruppe c, som omfatter "vogntog, lastebiler, busser, varebiler, drosjebiler og kjøretøy for transport av funksjonshemmede", og har en avskrivningssats på 24 %.
+**2022:**
+- Kjøp av første drosjebil for kr. 500 000.
 
-1. **Beregning av saldo ved starten av 2024:**
-   - Den første drosjebilen ble kjøpt i 2022 for kr. 500 000.
-   - I 2023 ble ytterligere to drosjebiler kjøpt for kr. 600 000 hver, men kun én av disse ble levert i 2023. Den andre ble levert i 2024 og inngår derfor ikke i 2023-beregningen.
-   - Saldo ved starten av 2023 var kr. 500 000 fra den første bilen.
-   - Tillegg for kjøp i 2023: kr. 600 000 (for den bilen levert i 2023).
-   - Total saldo før avskrivninger i 2023: kr. 1 100 000.
-   - Avskrivninger for 2023: 24 % av kr. 1 100 000 = kr. 264 000.
-   - Saldo ved starten av 2024 før kjøp og salg i 2024: kr. 1 100 000 - kr. 264 000 = kr. 836 000.
+**2023:**
+- Kjøp av to drosjebiler for kr. 600 000 hver, men bare én leveres i 2023. Den andre leveres 2. januar 2024.
+- Ved utgangen av 2023 har du derfor to biler i næringen (den opprinnelige og den nye levert i 2023).
 
-2. **Transaksjoner i 2024:**
-   - Salg av den eldste drosjebilen for kr. 300 000. Dette reduserer saldoen.
-   - Kjøp av en ny drosjebil for kr. 650 000.
-   - Den andre bilen kjøpt i 2023 for kr. 600 000, men levert i 2024, legges til saldoen for 2024.
-   - Reparasjonskostnader på kr. 25 000 kan ikke avskrives direkte som en del av saldoavskrivningen, men dekkes som en umiddelbar kostnad i driftsregnskapet.
-
-3. **Beregning av saldo og avskrivninger for 2024:**
-   - Startsaldo: kr. 836 000.
-   - Fradrag for salg: -kr. 300 000.
-   - Tillegg for kjøp av to biler levert i 2024: kr. 600 000 + kr. 650 000 = kr. 1 250 000.
-   - Ny saldo før avskrivninger i 2024: kr. 836 000 - kr. 300 000 + kr. 1 250 000 = kr. 1 786 000.
-   - Maksimale avskrivninger for 2024: 24 % av kr. 1 786 000 = kr. 428 640.
-
-Så, de maksimale skattemessige avskrivningene for drosjenæringen din i 2024 vil være kr. 428 640.
-
-### Prompt 4: Du er en norsk ekspert på skatterett som skal løse spørsmål om skatt. Vis alltid hvilket rettslig grunnlag du bygger på. Dersom du er i tvil, gjør nøye rede for hvorfor du er tvil. Baser svaret på følgende kontekst:{KONTEKST}
-
-For å beregne de maksimale skattemessige avskrivningene for drosjenæringen i 2024, må vi først identifisere hvilken saldogruppe drosjebilene tilhører, og deretter anvende de relevante reglene for saldoavskrivning.
-
-Ifølge skattelovens § 14-41 første ledd bokstav c, skal vogntog, lastebiler, busser, varebiler, drosjebiler og kjøretøy for transport av funksjonshemmede avskrives under saldoavskrivning, og de tilhører saldogruppe c. Avskrivningssatsen for denne gruppen er ifølge § 14-43 første ledd bokstav c 24 prosent.
-
-For å beregne avskrivningsgrunnlaget for 2024, må vi se på tilstanden ved inngangen til året og justere for kjøp, salg og leveranser av drosjebiler i løpet av året.
-
-**Tilstanden ved inngangen til 2024:**
-- Kjøp av første drosjebil i 2022 for kr. 500 000.
-- Kjøp av andre drosjebil i 2023 for kr. 600 000.
-- Kjøp av tredje drosjebil i 2023 for kr. 600 000, men denne leveres i 2024 og inkluderes derfor ikke i saldoen ved inngangen til 2024.
-
-**Hendelser i 2024:**
-- Salg av den første drosjebilen for kr. 300 000.
-- Levering av den tredje drosjebilen kjøpt i 2023 for kr. 600 000.
-- Kjøp og levering av en fjerde drosjebil for kr. 650 000.
-
-**Reparasjonskostnader:**
-- Reparasjonskostnader på kr. 25 000 kan ikke avskrives som en del av saldoavskrivningen, men de er fradragsberettigede kostnader i virksomheten.
-
-**Beregning av saldo ved inngangen til 2024:**
-- Saldo ved inngangen er summen av verdien på de to første bilene kjøpt før 2024, men siden vi har krevet maksimale avskrivninger for 2022 og 2023, må vi beregne den nedskrevne verdien av disse bilene ved inngangen til 2024. Dette krever informasjon om de spesifikke avskrivningene som ble gjort disse årene, som ikke er oppgitt. For enkelhets skyld antar vi at du har fulgt reglene og krevd maksimal avskrivning.
+**2024:**
+- Salg av den eldste drosjebilen for kr. 300 000.
+- Kjøp av en ny drosjebil for kr. 650 000, levert i 2024.
+- Reparasjonskostnader på kr. 25 000 (dette er en direkte kostnad og påvirker ikke saldoavskrivningene, men kan trekkes fra som en kostnad i 2024).
+- Ved utgangen av 2024 har du tre biler i næringen (den ene kjøpt i 2023, den ene levert 2. januar 2024, og den nye kjøpt i 2024).
 
 **Beregning av avskrivninger for 2024:**
-1. Legg til verdien av den tredje bilen levert i 2024 (kr. 600 000) og den fjerde bilen kjøpt og levert i 2024 (kr. 650 000) til saldoen.
-2. Trekk fra salgsverdien av den første bilen solgt i 2024 (kr. 300 000) fra saldoen.
-3. Beregn 24 % avskrivning på den justerte saldoen for 2024.
+1. Saldo ved inngangen av 2024 (etter avskrivninger i 2023) må justeres for salg av den eldste bilen og tillegg av de to nye bilene.
 
-Uten de spesifikke tallene for saldoen ved inngangen til 2024 etter avskrivningene i 2022 og 2023, kan vi ikke gi et eksakt tall for de maksimale skattemessige avskrivningene i 2024. Men prosessen og reglene for hvordan du beregner dette er som beskrevet ovenfor.
+2. Avskrivningssatsen er 24 % for saldogruppe c.
 
-### Prompt 5: Du er en norsk ekspert på skatterett som skal løse spørsmål om skatt. Vis alltid hvilket rettslig grunnlag du bygger på. Dersom du er i tvil, gjør nøye rede for hvorfor du er tvil. Legg vekt på å skrive et sammenhengende resonnement. Unngå å bruke punktlister. Baser svaret på følgende kontekst: {KONTEKST}
-For å beregne de maksimale skattemessige avskrivningene for 2024, må vi først identifisere hvilken saldogruppe drosjebilene faller inn under og anvende de relevante avskrivningssatsene i henhold til skattereglene.
+3. For å beregne saldoen ved inngangen av 2024, må vi vite saldoen ved utgangen av 2023, som vi ikke har eksakte tall for her. Men vi kan illustrere hvordan du ville beregnet det for 2024:
 
-Drosjebiler faller inn under saldogruppe c, som omfatter "vogntog, lastebiler, busser, varebiler, drosjebiler og kjøretøy for transport av funksjonshemmede", og som har en maksimal avskrivningssats på 24 prosent, jf. skatteloven § 14-43 første ledd c.
+   - Anta at saldoen ved inngangen av 2024 (etter justeringer for kjøp og salg) er X kroner.
+   - Maksimal avskrivning for 2024 blir da 24 % av X.
 
-La oss nå beregne saldoen for saldogruppe c ved utgangen av 2023, før vi beregner avskrivningene for 2024:
+**Merk:** Uten den eksakte saldoen ved inngangen av 2024, kan vi ikke gi et nøyaktig tall på avskrivningene for 2024. Du må beregne saldoen ved å ta utgangspunktet i kostprisen for bilene, trekke fra salgsverdien av den solgte bilen, legge til kostprisen for de nye bilene kjøpt i 2023 og 2024, og deretter anvende avskrivningssatsen på 24 % på den totale saldoen for å finne avskrivningene for 2024.
 
-1. Kostprisen for den første drosjebilen kjøpt i 2022 var 500 000 kroner.
-2. I 2023 ble det kjøpt to ytterligere drosjebiler for 600 000 kroner hver, men kun én av disse ble levert i 2023. Dermed legges 600 000 kroner til saldoen for 2023.
-3. Avskrivning for 2023: (500 000 kroner + 600 000 kroner) * 24% = 1 100 000 kroner * 24% = 264 000 kroner.
-4. Saldo ved utgangen av 2023 etter avskrivning: 1 100 000 kroner - 264 000 kroner = 836 000 kroner.
+Reparasjonskostnadene på kr. 25 000 vil være en direkte fradragsberettiget kostnad i 2024, uavhengig av avskrivningene.
 
-For 2024 skjer følgende:
+### Prompt 4: Du er en norsk ekspert på skatterett som skal løse spørsmål om skatt. Vis alltid hvilket rettslig grunnlag du bygger på. Dersom du er i tvil, gjør nøye rede for hvorfor du er tvil. Legg vekt på å skrive et sammenhengende resonnement. Unngå å bruke punktlister. Baser svaret på følgende kontekst: {KONTEKST}
 
-1. Salg av den eldste drosjebilen for 300 000 kroner reduserer saldoen.
-2. Kjøp av en ny drosjebil for 650 000 kroner legges til saldoen.
-3. Den andre bilen kjøpt for 600 000 kroner, men levert i 2024, legges også til saldoen.
-4. Reparasjonskostnader på 25 000 kroner etter en ulykke er ikke avskrivbare, men kan trekkes direkte fra som en kostnad i 2024.
+For å beregne de maksimale skattemessige avskrivningene for drosjenæringen din i 2024, må vi først identifisere hvilken saldogruppe drosjebilene tilhører og anvende de relevante avskrivningssatsene. Ifølge skatteloven § 14-41 første ledd bokstav c, tilhører vogntog, lastebiler, busser, varebiler, drosjebiler og kjøretøy for transport av funksjonshemmede saldogruppe c, som har en avskrivningssats på 24 prosent.
 
-Saldo ved starten av 2024: 836 000 kroner - 300 000 kroner (salg av gammel bil) + 650 000 kroner (ny bil kjøpt i 2024) + 600 000 kroner (bil levert i januar 2024) = 1 786 000 kroner.
+La oss beregne saldoen og de skattemessige avskrivningene for 2024:
 
-Maksimal avskrivning for 2024: 1 786 000 kroner * 24% = 428 640 kroner.
+1. **Saldo ved starten av 2024:**
+   - Du startet med en bil i 2022 til en kostpris på 500 000 kr.
+   - I 2023 kjøpte du to biler til en kostpris på 600 000 kr hver, men kun én av disse ble levert i 2023. Den andre ble levert i 2024 og regnes derfor ikke med i saldoen for 2023.
+   - Du har krevd maksimale avskrivninger for 2022 og 2023. For 2022 og 2023 er avskrivningssatsen 24 %.
 
-Så, de maksimale skattemessige avskrivningene du kan kreve i 2024 for drosjebilene i næringen er 428 640 kroner. Reparasjonskostnadene på 25 000 kroner etter å ha rygget på en lyktestolpe, kan trekkes fra som en direkte kostnad, men er ikke del av saldoavskrivningene.
+   Beregning av saldo ved starten av 2024:
+   - Startsaldo for 2022: 500 000 kr.
+   - Avskrivning for 2022: 500 000 kr * 24 % = 120 000 kr.
+   - Saldo ved starten av 2023: 500 000 kr - 120 000 kr = 380 000 kr.
+   - Tillegg av ny bil i 2023: 600 000 kr.
+   - Ny saldo før avskrivning for 2023: 380 000 kr + 600 000 kr = 980 000 kr.
+   - Avskrivning for 2023: 980 000 kr * 24 % = 235 200 kr.
+   - Saldo ved starten av 2024: 980 000 kr - 235 200 kr = 744 800 kr.
 
+2. **Endringer i 2024:**
+   - Salg av den eldste bilen for 300 000 kr reduserer saldoen.
+   - Kjøp av en ny bil for 650 000 kr øker saldoen.
+   - Reparasjonskostnader på 25 000 kr er ikke avskrivbare som en del av saldoen, men som en direkte kostnad i driftsregnskapet.
+
+   Ny saldo før avskrivning for 2024:
+   - Startsaldo: 744 800 kr.
+   - Salg av bil: -300 000 kr.
+   - Kjøp av ny bil: +650 000 kr.
+   - Ny saldo før avskrivning for 2024: 744 800 kr - 300 000 kr + 650 000 kr = 1 094 800 kr.
+
+3. **Maksimale skattemessige avskrivninger for 2024:**
+   - Avskrivning for 2024: 1 094 800 kr * 24 % = 262 752 kr.
+
+Så, de maksimale skattemessige avskrivningene du kan kreve for drosjenæringen din i 2024 er 262 752 kr. Reparasjonskostnadene på 25 000 kr etter å ha rygget på en lyktestolpe behandles separat i driftsregnskapet og er ikke en del av saldoavskrivningene.
+
+### Prompt 5: Du er en ekspert på norsk skatterett som skal løse rettslige spørsmål om skatt. Bruk følgende metode. Formuler hva det rettslige spørsmålet dreier seg om. Finn det rettslige grunnlaget som regulerer spørsmålet. Finn alle argumenter som er relevante for spørsmålet. Vurder alle relevante argumenter og henvis til rettskilder der dette er relevant. Konkluder. Legg vekt på å skrive en sammenhengende tekst der du ikke bruker punktlister og nummereringer. Baser svaret på følgende kontekst: {KONTEKST}
+For å beregne de maksimale skattemessige avskrivningene for drosjenæringen din i 2024, må vi først identifisere hvilken saldogruppe drosjebilene tilhører og anvende de relevante avskrivningssatsene. Ifølge norsk skatterett tilhører drosjebiler saldogruppe c, som omfatter vogntog, lastebiler, busser, varebiler, drosjebiler og kjøretøy for transport av funksjonshemmede. Avskrivningssatsen for saldogruppe c er 24 prosent.
+
+I 2022 kjøpte du en drosjebil for kr. 500 000. I 2023 utvidet du næringen med to biler til kr. 600 000 hver, men kun én av disse ble levert i 2023, mens den andre ble levert i 2024. I 2024 selger du den eldste drosjebilen for kr. 300 000 og kjøper en ny for kr. 650 000, som også blir levert i 2024. Du har også hatt reparasjonskostnader på kr. 25 000 i 2024.
+
+For å beregne saldoen for 2024, må vi først fastslå saldoen ved utgangen av 2023. Dette gjøres ved å ta utgangspunktet i anskaffelseskostnadene, trekke fra avskrivningene for 2022 og 2023, og justere for kjøp og salg av biler.
+
+1. **Saldo ved utgangen av 2022:**
+   - Kjøp av første bil: kr. 500 000
+   - Avskrivning for 2022 (24% av kr. 500 000): kr. 120 000
+   - Saldo ved utgangen av 2022: kr. 500 000 - kr. 120 000 = kr. 380 000
+
+2. **Saldo ved utgangen av 2023:**
+   - Startsaldo: kr. 380 000
+   - Kjøp av andre bil (levert i 2023): kr. 600 000
+   - Avskrivning for 2023 (24% av kr. 980 000): kr. 235 200
+   - Saldo ved utgangen av 2023: kr. 980 000 - kr. 235 200 = kr. 744 800
+
+3. **Beregning for 2024:**
+   - Startsaldo: kr. 744 800
+   - Salg av eldste bil: kr. 300 000 (dette reduserer saldoen)
+   - Kjøp av ny bil (levert i 2024): kr. 650 000
+   - Kjøp av bil overlevert 2. januar 2024: kr. 600 000
+   - Ny saldo før avskrivning: kr. 744 800 - kr. 300 000 + kr. 650 000 + kr. 600 000 = kr. 1 694 800
+   - Avskrivning for 2024 (24% av kr. 1 694 800): kr. 406 752
+
+Reparasjonskostnadene på kr. 25 000 etter å ha rygget på en lyktestolpe vil også være fradragsberettiget, men dette påvirker ikke avskrivningene direkte, da det behandles separat som en driftskostnad.
+
+Så, de maksimale skattemessige avskrivningene du kan kreve for 2024 er kr. 406 752, pluss at du kan trekke fra reparasjonskostnadene på kr. 25 000 som en driftskostnad.
