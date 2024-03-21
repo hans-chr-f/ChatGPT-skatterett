@@ -22,7 +22,7 @@ Vi tester flere ulike prompts. Ulike prompts gir ulike svar! For å legge inn lo
 ### Tester
 Vi har utviklet to sett av spørsmål: spørsmål om avskrivninger for drosjebiler og spørsmål om avskrivninger for kontoreiendom. De to settene er hver for seg bygd opp slik at spørsmålene etter hvert blir mer kompliserte. 
 
-Vi tester også kvaliteten på svarene varierer med hvor mye kontekst (rettskilder) vi mater inn. Her har vi brukt tre alternativer: 1) bare lovetekst, 2) lovtekst + Skatte-ABC og 3) lovtekst pluss et eksempl på hvordan avskrivninger skal regnes ut.
+Vi tester også kvaliteten på svarene varierer med hvor mye kontekst (rettskilder) vi mater inn. Her har vi brukt tre alternativer: 1) bare lovetekst, 2) lovtekst + Skatte-ABC og 3) lovtekst pluss et eksempel på hvordan avskrivninger skal regnes ut.
 
 #### Drosjebil
 - [drosjebil – uten kontekst](https://github.com/hans-chr-f/ChatGPT-skatterett/blob/main/avskrivninger_drosjebil_uten_kontekst.md)
