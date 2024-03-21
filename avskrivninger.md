@@ -29,7 +29,8 @@ Vi tester også kvaliteten på svarene varierer med hvor mye kontekst (rettskild
 - [drosjebil – bare lovtekst](https://github.com/hans-chr-f/ChatGPT-skatterett/blob/main/avskrivninger_drosjebil_bare_lovtekst.md)
 - [drosjebil – med lovtekst + Skatte-ABC](https://github.com/hans-chr-f/ChatGPT-skatterett/blob/main/avskrivninger_drosjebil_lov_abc.md)
 - [drosjebil – med lovtekst + eksempel på utregning](https://github.com/hans-chr-f/ChatGPT-skatterett/blob/main/avskrivninger_drosjebil_lov_eksempel.md)
-- [drosjebil - knapp lovtekst]()
+- [drosjebil - knapp lovtekst](https://github.com/hans-chr-f/ChatGPT-skatterett/blob/main/avskrivninger_drosjebil_knapp_lovtekst.md)
+- [drosjebil – knapp lovtekst + eksempel]()
 
 #### Kontoreiendom
 - [kontoreiendom – uten kontekst](https://github.com/hans-chr-f/ChatGPT-skatterett/blob/main/avskrivninger_kontoreiendom_uten_kontekst.md)
