@@ -20,7 +20,7 @@ Vi tester flere ulike prompts. Ulike prompts gir ulike svar! For å legge inn lo
 - Du er en ekspert på norsk skatterett som skal løse rettslige spørsmål om skatt. Bruk følgende metode. Formuler hva det rettslige spørsmålet dreier seg om. Finn det rettslige grunnlaget som regulerer spørsmålet. Finn alle argumenter som er relevante for spørsmålet. Vurder alle relevante argumenter og henvis til rettskilder der dette er relevant. Konkluder. Legg vekt på å skrive en sammenhengende tekst der du ikke bruker punktlister og nummereringer. Baser svaret på følgende kontekst: {KONTEKST}
 
 ### Tester
-Vi har utviklet to sett av spørsmål: spørsmål om avskrivninger for drosjebiler og spørsmål om avskrivninger for kontoreiendom. De to settene er hver seg bygd opp slik at spørsmålene etter hvert blir mer kompliserte. 
+Vi har utviklet to sett av spørsmål: spørsmål om avskrivninger for drosjebiler og spørsmål om avskrivninger for kontoreiendom. De to settene er hver for seg bygd opp slik at spørsmålene etter hvert blir mer kompliserte. 
 
 Vi tester også kvaliteten på svarene varierer med hvor mye kontekst (rettskilder) vi mater inn. Her har vi brukt tre alternativer: 1) bare lovetekst, 2) lovtekst + Skatte-ABC og 3) lovtekst pluss et eksempl på hvordan avskrivninger skal regnes ut.
 
