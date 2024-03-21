@@ -24,9 +24,9 @@ Vi har utviklet to sett av spørsmål: spørsmål om avskrivninger for drosjebil
 
 Vi tester også kvaliteten på svarene varierer med hvor mye kontekst (rettskilder) vi mater inn. Her har vi brukt tre alternativer: 1) bare lovetekst, 2) lovtekst + Skatte-ABC og 3) lovtekst pluss et eksempl på hvordan avskrivninger skal regnes ut.
 
-- [drosjebil – bare lovtekst](https://github.com/hans-chr-f/ChatGPT-skatterett/blob/main/avskrivninger-drosje.md)
+- [drosjebil – bare lovtekst](https://github.com/hans-chr-f/ChatGPT-skatterett/blob/main/avskrivninger_drosje_bare_lovtekst.md)
 - [drosjebil – med lovtekst + Skatte-ABC]()
 - [drosjebil – med lovtekst + eksempel på utregning]()
-- [kontorbygg – bare lovtekst](https://github.com/hans-chr-f/ChatGPT-skatterett/blob/main/avskrivninger-kontoreiendom.md)
+- [kontorbygg – bare lovtekst](https://github.com/hans-chr-f/ChatGPT-skatterett/blob/main/avskrivninger_kontoreiendom_bare_lovtekst.md)
 - [kontorbygg – med lovtekst + Skatte-ABC]()
 - [kontorbygg – med lovtekst + eksemoel på utregning]()
