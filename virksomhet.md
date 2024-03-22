@@ -1,4 +1,4 @@
-## Virksomhet eller næring?
+## Grensen mellom arbeidsinntekt og virksomhetsinntekt
 
 ### Modellparametre
 - modell = gpt-4-0125-preview
