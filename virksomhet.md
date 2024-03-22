@@ -1,4 +1,4 @@
-## Avskrivninger
+## Virksomhet eller næring?
 
 ### Modellparametre
 - modell = gpt-4-0125-preview
