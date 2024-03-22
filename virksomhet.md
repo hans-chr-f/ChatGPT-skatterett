@@ -34,6 +34,7 @@ Vi tester også om kvaliteten på svarene varierer med hvor mye kontekst (rettsk
 - [Welshman – uten kontekst](https://github.com/hans-chr-f/ChatGPT-skatterett/blob/main/welshman_uten_kontekst.md)
 - [Welshman – bare lovtekst](https://github.com/hans-chr-f/ChatGPT-skatterett/blob/main/welshman_bare_lovtekst.md)
 - [Welshman – med lovtekst + skatte-abc](https://github.com/hans-chr-f/ChatGPT-skatterett/blob/main/welshman_lovtekst_abc.md)
+- [Welshman – lov og 4 dommer](https://github.com/hans-chr-f/ChatGPT-skatterett/blob/main/welshman_lov_dommer.md)
 
 #### Sjakk
 - [Sjakk – uten kontekst](https://github.com/hans-chr-f/ChatGPT-skatterett/blob/main/sjakk_uten_kontekst.md)
