@@ -38,4 +38,4 @@ Vi tester også kvaliteten på svarene varierer med hvor mye kontekst (rettskild
 - [kontoreiendom – med lovtekst + Skatte-ABC](https://github.com/hans-chr-f/ChatGPT-skatterett/blob/main/avskrivninger_kontoreiendom_lov_abc.md)
 - [kontoreiendom – med lovtekst + eksempel på utregning](https://github.com/hans-chr-f/ChatGPT-skatterett/blob/main/avskrivninger_kontoreiendom_lov_eksempel.md)
 - [kontoreiendom – knapp lovtekst]()
-- [kontoreiendom – knapp lovtekst + eksempel]()
+- [kontoreiendom – knapp lovtekst + eksempel](https://github.com/hans-chr-f/ChatGPT-skatterett/blob/main/avskrivninger_kontoreiendom_knapp_lovtekst_eksempel.md)
