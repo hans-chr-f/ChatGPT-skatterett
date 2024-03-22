@@ -8,6 +8,15 @@
 - skatteloven kap. 5 (hele)
 - Skatte-ABC V-9-1 til V-9-3
 
+### Dommer
+- Rt-1985-644 (EMI)
+- HR-2015-1133-A (Solér)
+- HR-2017-628-A (Thingaard)
+- HR-2017-627-A  (Raise)
+
+Vi har fjernet partenes anførsler og tingretten og lagmannsrettens domsbegrunnelser der de er inntatt etter Høyesteretts domskonklusjon.
+
+
 ### Prompts
 Vi tester flere ulike prompts. Ulike prompts gir ulike svar! For å legge inn lovtekst og tekst fra Skatte-ABC bruker vi koden {KONTEKST}. Når vi måter inn spørsmålene i modellen bytter vi ut {KONTEKST} med rettskildene. Merk at den første prompten nedenfor ikke har en slik {KONTEKST}. Da tester hva modellen klarer uten at den får norske rettskilder eksplisitt matet inn. 
 
