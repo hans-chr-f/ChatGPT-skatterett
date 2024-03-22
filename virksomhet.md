@@ -19,7 +19,7 @@ Vi tester flere ulike prompts. Ulike prompts gir ulike svar! For å legge inn lo
 
 ### Tester
 Vi har utviklet to sett av spørsmål: Ett sett der spørsmålet er om en musikers inntekt er arbeidsinntekt eller virksomhetsinntekt (Welshman) og ett sett der spørsmålet er om aktivitet knyttet til en sjakkklubb er arbeidsinntekst eller virksomhetsinntekt (sjakk).
-Vi tester også om kvaliteten på svarene varierer med hvor mye kontekst (rettskilder) vi mater inn. XXXXX Her har vi brukt seks forskjellige alternativer: 1) ingen kontekst, 2) bare lovetekst, 3) lovtekst + Skatte-ABC, 4) lovtekst pluss en utdrag fra en dom (EMI-dommen) som behandler samme type spørsmål.
+Vi tester også om kvaliteten på svarene varierer med hvor mye kontekst (rettskilder) vi mater inn. Her har vi brukt fire forskjellige alternativer: 1) ingen kontekst, 2) bare lovetekst, 3) lovtekst + Skatte-ABC, 4) lovtekst pluss en utdrag fra en dom (EMI-dommen) som behandler samme type spørsmål.
 
 #### Welshman
 - [Welshman – uten kontekst](https://github.com/hans-chr-f/ChatGPT-skatterett/blob/main/welshman_uten_kontekst.md)
