@@ -22,5 +22,6 @@ Vi har utviklet to sett av spørsmål:
 Vi tester også kvaliteten på svarene varierer med hvor mye kontekst (rettskilder) vi mater inn. XXXXX Her har vi brukt seks forskjellige alternativer: 1) ingen kontekst, 2) bare lovetekst, 3) lovtekst + Skatte-ABC, 4) lovtekst pluss et eksempel på hvordan avskrivninger skal regnes ut, 5) knappp lovtekst og 6) knapp lovtekst + eksempel.
 
 #### Welshman
+- [Welshman – uten kontekst](https://github.com/hans-chr-f/ChatGPT-skatterett/blob/main/welshman_uten_kontekst.md)
 
 #### Sjakk
