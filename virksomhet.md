@@ -39,3 +39,4 @@ Vi tester også om kvaliteten på svarene varierer med hvor mye kontekst (rettsk
 - [Sjakk – uten kontekst](https://github.com/hans-chr-f/ChatGPT-skatterett/blob/main/sjakk_uten_kontekst.md)
 - [Sjakk - bare lovtekst](https://github.com/hans-chr-f/ChatGPT-skatterett/blob/main/sjakk_bare_lovtekst.md)
 - [Sjakk – med lovtekst + skatte-abc](https://github.com/hans-chr-f/ChatGPT-skatterett/blob/main/sjakk_lovtekst_abc.md)
+- [Sjakk – lov og 4 dommer](https://github.com/hans-chr-f/ChatGPT-skatterett/blob/main/sjakk_lov_dommer.txt)
