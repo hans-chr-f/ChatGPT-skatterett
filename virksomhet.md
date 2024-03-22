@@ -26,3 +26,4 @@ Vi tester også kvaliteten på svarene varierer med hvor mye kontekst (rettskild
 
 #### Sjakk
 - [Sjakk – uten kontekst](https://github.com/hans-chr-f/ChatGPT-skatterett/blob/main/sjakk_uten_kontekst.md)
+- [Sjakk - bare lovtekst](https://github.com/hans-chr-f/ChatGPT-skatterett/blob/main/sjakk_bare_lovtekst.md)
