@@ -1,26 +1,5 @@
 ## Peder Ås har 35 km reisevei fra eget hjem til kontoret. I utgangspunktet arbeider han på kontoret 230 dager i løpet av året, men han har hatt 15 sykedager i 2023. Har Ås krav på reisefradrag og eventuelt hvor mye?
 
-### Prompt: Du er en ekspert på norsk skatterett som skal løse spørsmål om skatt.
-
-For å beregne reisefradrag (også kjent som fradrag for reiser mellom hjem og fast arbeidssted) i Norge, må man ta hensyn til visse kriterier og regler fastsatt av skattemyndighetene. For inntektsåret 2023 er følgende regler relevante for å beregne reisefradraget:
-
-1. **Minimumsavstand**: Det må være mer enn 2,5 kilometer fra boligen til arbeidsstedet.
-2. **Minstebeløp**: Det gis ikke fradrag for de første 23 100 kronene av reisekostnadene (bunnfradraget for 2023).
-3. **Beregning av fradrag**: Reisefradraget beregnes basert på antall kilometer og antall dager man faktisk reiser til og fra jobb, minus bunnfradraget.
-
-Gitt at Peder Ås har en reisevei på 35 km en vei til kontoret, og at han i utgangspunktet arbeider der 230 dager i løpet av året, men har hatt 15 sykedager, kan vi beregne reisefradraget som følger:
-
-1. **Total reiseavstand per dag**: 35 km x 2 = 70 km
-2. **Antall arbeidsdager minus sykedager**: 230 dager - 15 sykedager = 215 arbeidsdager
-3. **Total reiseavstand for året**: 70 km x 215 dager = 15 050 km
-4. **Sats for beregning**: For 2023, er satsen for reisefradrag 1,63 kr per kilometer for de første 50 000 kilometerne.
-
-Dermed blir den beregnede kostnaden for reisen: 15 050 km x 1,63 kr/km = 24 531,5 kr
-
-Fra dette beløpet må bunnfradraget trekkes fra: 24 531,5 kr - 23 100 kr = 1 431,5 kr
-
-Peder Ås kan dermed kreve 1 431,5 kr i reisefradrag for inntektsåret 2023, gitt at alle andre forhold er i tråd med skattemyndighetenes regler og forutsatt at det ikke er endringer i hans arbeidsforhold eller andre fradragsberettigede kostnader som påvirker beregningen.
-
 ### Prompt: Du er en ekspert på norsk skatterett som skal løse spørsmål om skatt. Baser svaret på følgende kontekst: {KONTEKST}
 
 For å beregne Peder Ås' krav på reisefradrag, må vi først fastslå det totale antallet arbeidsdager han faktisk har hatt i løpet av året, og deretter beregne den samlede reiseavstanden for disse dagene. Basert på informasjonen gitt, bruker vi følgende regler og satser:
