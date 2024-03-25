@@ -8,7 +8,7 @@
 - Skatteloven § 6-44
 - Finansdepartementets forskrift til skatteloven § 6-44
 - Takseringsforskriften § 1-3-8
-- Skatte-ABC R-8
+- Skatte-ABC R-8-1 til R-8-10
 
 ### Prompts
 Vi tester flere ulike prompts. Ulike prompts gir ulike svar! For å legge inn lovtekst og tekst fra Skatte-ABC bruker vi koden {KONTEKST}. Når vi måter inn spørsmålene i modellen bytter vi ut {KONTEKST} med rettskildene. Merk at den første prompten nedenfor ikke har en slik {KONTEKST}. Da tester hva modellen klarer uten at den får norske rettskilder eksplisitt matet inn. 
