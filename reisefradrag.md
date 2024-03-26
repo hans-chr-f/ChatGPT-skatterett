@@ -25,7 +25,4 @@ Vi tester flere ulike prompts. Ulike prompts gir ulike svar! For å legge inn lo
 #### Reisefradrag
 - [reisefradrag – uten kontekst](https://github.com/hans-chr-f/ChatGPT-skatterett/blob/main/reisefradrag_uten_kontekst.md)
 - [reisefradrag – lov og forskrifter](https://github.com/hans-chr-f/ChatGPT-skatterett/blob/main/reisefradrag_lov_forskrift.md)
-- [drosjebil – med lovtekst + Skatte-ABC](https://github.com/hans-chr-f/ChatGPT-skatterett/blob/main/avskrivninger_drosjebil_lov_abc.md)
-- [drosjebil – med lovtekst + eksempel på utregning](https://github.com/hans-chr-f/ChatGPT-skatterett/blob/main/avskrivninger_drosjebil_lov_eksempel.md)
-- [drosjebil - knapp lovtekst](https://github.com/hans-chr-f/ChatGPT-skatterett/blob/main/avskrivninger_drosjebil_knapp_lovtekst.md)
-- [drosjebil – knapp lovtekst + eksempel](https://github.com/hans-chr-f/ChatGPT-skatterett/blob/main/avskrivninger_drosjebil_knapp_lovtekst_eksempel.md)
+- [reisefradrag – lov og forskrifter + skatte-abc](https://github.com/hans-chr-f/ChatGPT-skatterett/blob/main/reisefradrag_lov_forskrift_abc.md)
