@@ -24,7 +24,7 @@ Vi tester flere ulike prompts. Ulike prompts gir ulike svar! For å legge inn lo
 - [reisefradrag – lov og forskrifter](https://github.com/hans-chr-f/ChatGPT-skatterett/blob/main/reisefradrag_lov_forskrift.md)
 - [reisefradrag – lov og forskrifter + skatte-abc](https://github.com/hans-chr-f/ChatGPT-skatterett/blob/main/reisefradrag_lov_forskrift_abc.md)
 
-### Fasit
+### Spørsmål med fasit
 **Peder Ås har 35 km reisevei fra eget hjem til kontoret. I utgangspunktet arbeider han på kontoret 230 dager i løpet av året, men han har hatt 15 sykedager i 2023. Har Ås krav på reisefradrag og eventuelt hvor mye?**
 
 Fasit: Spørsmålet om Ås har krav på reisefradrag reguleres av sktl. § 6-44 med supplerende forskriftsbestemmelser. 
